@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and Cyber Security
 - 🌱 I’m currently learning C#/Unity
 - 💞️ I’m looking to collaborate on game projects preferably in Unity or Roblox
-- 📫 How to reach me: WIP
+- 📫 How to reach me: Mail: lukonko@duck.com Discord: lukonko3 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Formula1
 
